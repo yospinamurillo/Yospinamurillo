@@ -1,5 +1,7 @@
 # ¡Hola! Soy Yesit Ospina 👋
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 ### 👨‍💻 Desarrollador de Software | 🔐 Entusiasta de la Ciberseguridad
 
 Me apasiona construir soluciones tecnológicas robustas y seguras. Mi enfoque combina la lógica del desarrollo de software con la mentalidad de protección de datos y redes. Actualmente me dedico a perfeccionar mis habilidades en análisis de datos y arquitectura de sistemas.
